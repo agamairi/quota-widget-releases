@@ -1,16 +1,9 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>QuotaWidget</title>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Sun, 16 Aug 2026 01:36:31 -0400</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Initial release.
-]]></description>
-            <enclosure url="https://agamairi.github.io/quota-widget-releases/QuotaWidget-1.0.0.zip" length="2285963" type="application/octet-stream" sparkle:edSignature="Ns78nzqZAIRHi/H74BsqF8vFLKcJBPtQHgZeSN1OWbmg9WnCiZxj/zTHBC4AFzfd+Jg5nwmhq0g6fvK16jt4CQ=="/>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>QuotaWidget Updates</title>
+    <link>https://agamairi.github.io/quota-widget-releases/appcast.xml</link>
+    <description>Update feed for QuotaWidget.</description>
+    <language>en</language>
+  </channel>
 </rss>
