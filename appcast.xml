@@ -1,9 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>QuotaWidget Updates</title>
-    <link>https://agamairi.github.io/quota-widget-releases/appcast.xml</link>
-    <description>Update feed for QuotaWidget.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>QuotaWidget Updates</title>
+        <link>https://agamairi.github.io/quota-widget-releases/appcast.xml</link>
+        <description>Update feed for QuotaWidget.</description>
+        <language>en</language>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Mon, 31 Aug 2026 16:53:25 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Fixes Codex usage not appearing after a recent change to how Codex stores its local session logs.
+]]></description>
+            <enclosure url="https://agamairi.github.io/quota-widget-releases/QuotaWidget-1.0.1.zip" length="2272169" type="application/octet-stream" sparkle:edSignature="FCik0RTV6z4tfi1huyuzVE0zeO8ZKOLW3gtqJ1bvVVh8o1OOnRgUKk89GcHJVVYnJLr0/njfHPaI/gSCJ8ZcDw=="/>
+        </item>
+    </channel>
 </rss>
