@@ -6,6 +6,16 @@
         <description>Update feed for QuotaWidget.</description>
         <language>en</language>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Tue, 01 Sep 2026 18:43:22 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Keeps the last known usage for a provider on screen, labeled "cached", when a refresh briefly fails, instead of showing nothing.
+]]></description>
+            <enclosure url="https://agamairi.github.io/quota-widget-releases/QuotaWidget-1.0.2.zip" length="2296041" type="application/octet-stream" sparkle:edSignature="G1LDDEvxYLRD/vLmf+M9D98LDw8KRxvlYNfvuLhOJXgpPVT1Y2fjOUoM0VLab3i+4YyEYkMCsuVLhzWT5CNEBw=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Mon, 31 Aug 2026 16:53:25 -0400</pubDate>
             <sparkle:version>2</sparkle:version>
