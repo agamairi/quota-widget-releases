@@ -6,6 +6,16 @@
         <description>Update feed for QuotaWidget.</description>
         <language>en</language>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Sun, 06 Sep 2026 16:16:00 -0400</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[Fixes Claude and Codex quota getting stuck on stale numbers, adds a Retry button to each provider, and now explains sign-in and rate-limit failures instead of failing silently.
+]]></description>
+            <enclosure url="https://agamairi.github.io/quota-widget-releases/QuotaWidget-1.0.3.zip" length="2430237" type="application/octet-stream" sparkle:edSignature="k5QCztJ0oMhGmGL9YtIZjb9Gw0MwAQGlz14+fyKB6omoT5qR86wXEQjusZzeIpC0uBeCqZr+ydOFuDvU8InoBQ=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Tue, 01 Sep 2026 18:43:22 -0400</pubDate>
             <sparkle:version>3</sparkle:version>
